@@ -4,3 +4,6 @@ Haciendo un cambio en el notepak...
 Empezamos a trabajar...
 ---
 Versión de trabajo definitiva.
+---
+INTERNO:
+Esta es mi nueva aportación que no quiero que el cliente vea.
